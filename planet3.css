@@ -1,0 +1,225 @@
+ .container{
+   background-image: url(https://websitedemos.net/earth-02/wp-content/uploads/sites/1125/2022/10/Call-to-action.jpg);
+    background-position: bottom center;
+    background-size: cover;
+    height: 570px;
+ }
+ .content
+h1{
+    font-size: 55px;
+    padding-top: 150px;
+    text-align: center;
+    color: green;
+}
+
+.flex
+img{
+    width: 150px;
+    height: 20px;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+ .flex
+a{
+    text-decoration: none;
+     margin-left: 85px;
+     color: black;
+}
+
+.id{
+    display: flex;
+}
+
+.id
+img{
+    width: 500px;
+    height: 450px;
+    margin-left: 150px;
+    padding-top: 50px;
+}
+.id
+h2{
+    font-size: 35px;
+    margin-left: 50px;
+    padding-top:100px;
+}
+.id
+p{
+font-size: 22px;
+color: rgb(145, 144, 144);
+margin-left: 50px;
+}
+.id
+button{
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    color: aliceblue;
+    border: 1px solid rgb(72, 224, 72);
+    background-color: rgb(36, 161, 36);
+    margin-left: 50px;
+}
+.id
+button:hover{
+    background-color: rgb(18, 109, 18);
+    border: 1px solid rgb(17, 107, 17);
+}
+.name{
+    display: flex;
+}
+
+.name
+img{
+    width: 500px;
+    height: 450px;
+    margin-left: 50px;
+    padding-top: 50px;
+}
+.name
+h2{
+    font-size: 35px;
+    margin-left: 100px;
+    padding-top: 100px;
+}
+.name
+p{
+font-size: 22px;
+color: rgb(145, 144, 144);
+margin-left: 100px;
+}
+.name
+button{
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    color: aliceblue;
+    border: 1px solid rgb(72, 224, 72);
+    background-color: rgb(36, 161, 36);
+    margin-left: 100px;
+}
+.name
+button:hover{
+    background-color: rgb(18, 109, 18);
+    border: 1px solid rgb(17, 107, 17);
+}
+
+
+
+
+.head{
+    display: flex;
+}
+.head
+img{
+    width: 500px;
+    height: 450px;
+    margin-left: 100px;
+    padding-top: 50px;
+}
+.head
+h2{
+    font-size: 35px;
+    margin-left: 50px;
+    padding-top: 100px;
+}
+.head
+p{
+font-size: 22px;
+color: rgb(145, 144, 144);
+margin-left: 50px;
+
+}
+.head
+button{
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    color: aliceblue;
+    border: 1px solid rgb(72, 224, 72);
+    background-color: rgb(36, 161, 36);
+    margin-left: 50px;
+}
+.head
+button:hover{
+    background-color: rgb(18, 109, 18);
+    border: 1px solid rgb(17, 107, 17);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.city
+{
+       background-image: url(https://websitedemos.net/earth-02/wp-content/uploads/sites/1125/2022/10/Talk-to-us.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.city
+h2{
+    font-size: 45px;
+    color: green;
+    word-spacing: 10px;
+ text-align: center;
+ padding-top: 150px;
+}
+.city
+p{
+    font-size: 20px;
+    color: rgb(62, 60, 60);
+    text-align: center;
+    padding-top: 1px;
+}
+.city
+button{
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    color: aliceblue;
+    border: 1px solid rgb(72, 224, 72);
+    background-color: rgb(36, 161, 36);
+    margin-left: 500px;
+}
+.city
+button:hover{
+    background-color: rgb(18, 109, 18);
+    border: 1px solid rgb(17, 107, 17);
+}
+.footer
+{
+    display: flex;
+}
+.footer
+h3{
+    word-spacing: 15px;
+ margin-left: 50px;
+ margin-top: -2px;
+
+}
+.footer
+img{
+   margin-left: 250px;
+   width: 110px;
+   height: 20px;
+}
+.footer
+p{
+    margin-left: 320px;
+     margin-top: -2px;
+}

@@ -1,0 +1,149 @@
+.container{
+        background-image: url(https://websitedemos.net/hope-02/wp-content/uploads/sites/1410/2023/10/1-services.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+}
+.container
+img{
+    width: 50px;
+    height: 60px;
+}
+.container
+a
+{
+    text-decoration: none;
+    color: aliceblue;
+    padding: 40px;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 40px;
+
+}
+.container
+button{
+    font-size: 20px;
+   margin-left: 100px;
+   background-color: transparent;
+   color: aliceblue;
+   height: 40px;
+   width: 150px;
+   border: 1px solid white;
+   border-radius: 10px;
+}
+.container
+button:hover{
+background-color: rgb(12, 58, 12);
+border: 1px solid rgb(12, 58, 12);
+}
+.container
+a:hover{
+    color: green;
+}
+.header
+h1{
+    color: aliceblue;
+    font-size: 80px;
+    text-align: center;
+    margin-top: 90px;
+}
+.first{
+    display: flex;
+}
+.first
+img{
+       width: 350px;
+    height: 470px;
+    margin-top: 25px;
+    margin-left: 50px;
+    border-radius: 20px;
+    background-position: center;
+}
+.first
+h3{
+    font-size: 35px;
+      margin-left: 55px;
+}
+.first
+p{
+       font-size: 23px;
+      margin-left: 55px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.first
+button{
+     font-size: 20px;
+   margin-left: 60px;
+   height: 60px;
+   width: 200px;
+
+   border: 1px solid rgb(17, 56, 5);
+   background-color: rgb(31, 110, 31);
+   border-radius: 10px;
+}
+.first
+button:hover{
+    background-color: rgb(7, 94, 7);
+}
+.second{
+    background-image: url(./2-services.jpg);
+    width: 100%;
+    overflow: hidden;
+    height: 700px;
+}
+.second
+h2{
+    font-size: 55px;
+    color: aliceblue;
+    text-align: center;
+    padding-top: 190px;
+}
+.second
+p{
+      font-size: 30px;
+    color: aliceblue;
+    text-align: center;
+}
+.second 
+button{
+  font-size: 20px;
+   /* margin-left: 60px; */
+   height: 60px;
+   width: 200px;
+   border: 1px solid rgb(236, 240, 235);
+   background-color: transparent;
+   border-radius: 10px;
+   color: aliceblue;
+   margin-left: 500px;
+}
+.second
+button:hover{
+    background-color: rgb(7, 94, 7);
+    border: 1px solid rgb(20, 79, 20);
+}
+.checkout
+a:hover{
+    color: green;
+}
+.checkout
+h3{
+word-spacing: 20px;
+
+}
+.checkout
+img{
+    margin-left: 200px;
+    margin-top: 10px;
+    height: 50px;
+}
+.checkout
+p{
+    margin-left:300px ;
+    margin-top:20px;
+    font-size: 23px
+ 
+}
+.checkout{
+    display: flex;
+}

@@ -1,0 +1,118 @@
+.container{
+        background-image: url(./1-contact.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+.container
+img{
+    width: 50px;
+    height: 60px;
+}
+.container
+a
+{
+    text-decoration: none;
+    color: aliceblue;
+    padding: 40px;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 40px;
+
+}
+.container
+button{
+    font-size: 20px;
+   margin-left: 100px;
+   background-color: transparent;
+   color: aliceblue;
+   height: 40px;
+   width: 150px;
+   border: 1px solid white;
+   border-radius: 10px;
+}
+.container
+button:hover{
+background-color: rgb(12, 58, 12);
+border: 1px solid rgb(12, 58, 12);
+}
+.container
+a:hover{
+    color: green;
+}
+.header
+h1{
+    color: aliceblue;
+    font-size: 80px;
+    text-align: center;
+    margin-top: 7x0px;
+}
+.first
+h1{
+text-align: center;
+font-size: 45px;
+}
+.id
+button{
+  font-size: 20px;
+   margin-left: 350px;
+   background-color: rgb(7, 90, 7);
+   color: aliceblue;
+   height: 50px;
+   width: 130px;
+   border: 1px solid white;
+   border-radius: 10px;
+}
+.id 
+button:hover{
+    background-color: rgb(10, 79, 10);
+}
+.checkout
+a:hover{
+    color: green;
+}
+.checkout
+h3{
+word-spacing: 10px;
+
+}
+.checkout
+img{
+    margin-left: 200px;
+    margin-top: 10px;
+    height: 50px;
+}
+.checkout
+p{
+    margin-left:300px ;
+    margin-top:20px;
+    font-size: 23px
+ 
+}
+.checkout{
+    display: flex;
+}
+.paral{
+     background-color: rgb(227, 241, 229);  padding-left: 30px;
+}
+ h2{
+text-align: center;
+    font-size: 40px;
+    font-size: 50px;
+}
+h3{
+    font-size: 20px;
+}
+
+td{
+    font-size: 20px;
+
+}
+div{
+    margin-top: 10px;
+}
+
+.city{
+margin-left: 30px;
+}

@@ -1,0 +1,184 @@
+
+.flex
+img{
+    width: 200px;
+    height: 70px;
+   margin-top: -25px;
+   margin-left: 30px;
+
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+}
+ .first
+a{
+    text-decoration: none;
+    color: black;
+     font-size: 20px;
+     text-align: right;
+     padding: 20px;
+   
+}
+.first{
+    padding-left: 300px;
+}
+.home{
+    background-image: url(https://websitedemos.net/generic-ecommerce-02/wp-content/uploads/sites/1526/2025/03/shop-bg.jpg);
+    height: 400px;
+        background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: scroll
+}
+.home
+h2{
+ color: aliceblue;
+ font-size: 50px;
+ padding-top: 150px;
+ text-align: center;
+}
+.id{
+    display: flex;
+}
+.products{
+    display: flex;
+}
+.products
+img{
+    width: 370px;
+    height: 400px;
+    margin-left: 30px;
+   }
+.products
+h4{
+margin-left: 34px;
+font-size: 18px;
+margin-top: 9px;
+   
+   }
+.products
+ p{
+margin-left: 34px;
+color: rgb(104, 104, 104);
+margin-top: -20px;
+}
+.products
+h6{
+    margin-left: 34px;
+    margin-top: -10px;
+    font-size: 15px;
+}
+.plants{
+    display: flex;
+}
+.plants
+img{
+    width: 370px;
+    height: 400px;
+    margin-left: 30px;
+   }
+.plants
+h4{
+margin-left: 34px;
+font-size: 18px;
+margin-top: 9px;
+   
+   }
+.plants
+ p{
+margin-left: 34px;
+color: rgb(104, 104, 104);
+margin-top: -20px;
+}
+.plants
+h6{
+    margin-left: 34px;
+    margin-top: -10px;
+    font-size: 15px;
+}
+.flex
+img{
+    width: 200px;
+    height: 50px;
+   margin-top: -24px;
+   margin-left: 30px;
+   color: black;
+
+}
+.parral{
+    background-image: url(https://websitedemos.net/generic-ecommerce-02/wp-content/uploads/sites/1526/2025/03/footer-bg.jpg);
+    height: 390px;
+
+   
+  
+}
+.parral
+h2{
+    text-align: center;
+    
+    font-size: 45px;
+    padding-top: 50px;
+}
+.parral
+p{
+    text-align: center;
+    font-size: 25px;
+  
+}
+.parral
+button{
+  font-size: 20px;
+   margin-left: 540px;
+   background-color:#89b75e;
+   color: aliceblue;
+   height: 50px;
+   width: 130px;
+   border: 1px solid #89b75e;
+   border-radius: 50px;
+}
+.parral
+button:hover{
+    background-color: #6ca03b;
+    border: #6ca03b;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+}
+ .seventh
+a{
+    text-decoration: none;
+     font-size: 25px;
+     color: black;
+     text-align: right;
+     padding: 10px;
+}
+.seventh{
+    padding-left: 200px;
+    margin-top: -13px;
+}
+
+.third{
+    margin-left: 230px;
+      margin-top: -13px;
+}
+.para
+p{
+    text-align: center;
+}
+.city{
+    background-color: #ecf4d3;
+    padding:7px;
+  
+}
+
+
+
+
+
+
+
+

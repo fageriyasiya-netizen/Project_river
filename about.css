@@ -1,0 +1,235 @@
+.container{
+       background-image: url(https://websitedemos.net/generic-ecommerce-02/wp-content/uploads/sites/1526/2025/03/about-bg.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 570px;
+  
+} 
+.content
+p{
+    font-size: 20px;
+    text-align: center;
+    padding-top: 120px;
+    color: aliceblue;
+}
+.content
+h1{
+    font-size: 60px;
+    text-align: center;
+   margin-top: -13px;
+    color: aliceblue;
+}
+
+.flex
+img{
+    width: 200px;
+    height: 70px;
+   margin-top: -24px;
+   margin-left: 30px;
+
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+}
+ .first
+a{
+    text-decoration: none;
+     color: aliceblue;
+     font-size: 20px;
+     text-align: right;
+     padding: 20px;
+   
+}
+.first{
+    padding-left: 300px;
+}
+
+.second{
+    margin-left: 20px;
+      margin-top: -2px;
+}
+.plant
+img{
+    width: 500px;
+    height: 550px;
+    margin-left: 50px;
+    padding-top: 40px;
+}
+.plant
+h2{
+    font-size: 45px;
+    margin-left: 80px;
+    margin-top: 70px;
+}
+.plant
+p{
+    font-size: 20px;
+    margin-left: 80px;
+    color: rgb(113, 112, 112);
+}
+.plant{
+    display: flex;
+}
+.image
+img{
+    width: 70px;
+    height: 70px;
+    margin-top: -45px;
+    margin-left: 80px;
+}
+.image
+h2{
+    margin-left: 165px;
+    font-size: 17px;
+    margin-top: -60px;
+}
+.image
+p{
+    margin-left: 165px;
+    font-size: 20px;
+    margin-top: -10px;
+}
+
+.mid
+h2{
+    padding-top: 60px;
+    text-align: center;
+    font-size: 45px;
+}
+.card
+h2{
+    font-size: 25px;
+    text-align: start;
+    margin-left: 75px;
+    margin-top: -123px;
+}
+.card
+p{
+    font-size: 18px;
+    text-align: start;
+    margin-left: 75px;
+    margin-top: -14px;
+}
+.card{
+    display: flex;
+    gap: 30px;
+    margin-left: 20px;
+}
+.card1
+h2{
+    font-size: 25px;
+    text-align: start;
+    margin-left: 75px;
+    margin-top: -120px;
+}
+.card1
+p{
+    font-size: 18px;
+    text-align: start;
+    margin-left: 75px;
+    margin-top: -14px;
+}
+.card1{
+    display: flex;
+    gap: 30px;
+    margin-left: 20px;
+}
+.color{
+      background-color: #ecf4d3;
+      padding: 12px;
+}
+.mission{
+    display: flex;
+}
+.mission
+h2{
+    margin-left: 30px;
+    font-size: 35px;
+    padding-top: 70px;
+}
+.mission
+p{
+    margin-left: 30px;
+    font-size: 20px;
+    color: rgb(128, 126, 126);
+}
+.mission
+img{
+    margin-left: 32px;
+    height: 500px;
+    width: 500px;
+   
+}
+.paraa
+p{
+margin-left: 360px;
+padding-bottom: 105px;
+margin-top: -104px;
+}
+.parral{
+    background-image: url(https://websitedemos.net/generic-ecommerce-02/wp-content/uploads/sites/1526/2025/03/footer-bg.jpg);
+    height: 390px;
+}
+.parral
+h2{
+    text-align: center;
+    
+    font-size: 45px;
+    padding-top: 50px;
+}
+.parral
+p{
+    text-align: center;
+    font-size: 25px;
+  
+}
+.parral
+button{
+  font-size: 20px;
+   margin-left: 540px;
+   background-color:#89b75e;
+   color: aliceblue;
+   height: 50px;
+   width: 130px;
+   border: 1px solid #89b75e;
+   border-radius: 50px;
+}
+.parral
+button:hover{
+    background-color: #6ca03b;
+    border: #6ca03b;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+}
+ .seventh
+a{
+    text-decoration: none;
+     font-size: 25px;
+     color: black;
+     text-align: right;
+     padding: 10px;
+}
+.seventh{
+    padding-left: 200px;
+    margin-top: -13px;
+}
+
+.third{
+    margin-left: 230px;
+      margin-top: -13px;
+}
+.para
+p{
+    text-align: center;
+}
+.city{
+    background-color: #ecf4d3;
+    padding:7px;
+  
+}

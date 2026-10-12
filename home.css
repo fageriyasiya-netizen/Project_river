@@ -1,0 +1,439 @@
+.container{
+    background-image: url(https://websitedemos.net/generic-ecommerce-02/wp-content/uploads/sites/1526/2025/03/home-hero-bg.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 570px;
+  
+} 
+.content
+p{
+    font-size: 25px;
+    text-align: center;
+    padding-top: 50px;
+    color: aliceblue;
+}
+.content
+h1{
+    font-size: 65px;
+    text-align: center;
+   margin-top: -13px;
+    color: aliceblue;
+}
+
+.flex
+img{
+    width: 200px;
+    height: 70px;
+   margin-top: -24px;
+   margin-left: 30px;
+
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+}
+ .first
+a{
+    text-decoration: none;
+     color: aliceblue;
+     font-size: 20px;
+     text-align: right;
+     padding: 20px;
+   
+}
+.first{
+    padding-left: 350px;
+}
+
+.content
+button{
+  font-size: 20px;
+   margin-left: 560px;
+   background-color:#89b75e;
+   color: aliceblue;
+   height: 50px;
+   width: 130px;
+   border: 1px solid #89b75e;
+   border-radius: 50px;
+}
+.content
+button:hover{
+    background-color: #6ca03b;
+    border: #6ca03b;
+}
+.name
+h2{
+   margin-top: -0.10px;
+    margin-left: 40px;
+}
+.name
+p{
+     margin-top: -12px;
+    margin-left: 40px;
+}
+.name{
+    display: flex;
+}
+.third
+h2{
+   margin-top: -0.10px;
+    margin-left: 160px;
+}
+.third
+p{
+     margin-top: -12px;
+    margin-left: 160px;
+}
+.fourth
+h2{
+   margin-top: -0.10px;
+    margin-left: 160px;
+}
+.fourth
+p{
+     margin-top: -12px;
+    margin-left: 160px;
+}
+.fifth
+h2{
+   margin-top: -0.10px;
+    margin-left: 180px;
+}
+.fifth
+p{
+     margin-top: -12px;
+    margin-left: 180px;
+}
+.heading
+h2{
+    font-size: 45px;
+    text-align: center;
+}
+.plants{
+    display: flex;
+}
+.plants
+img{
+    width: 370px;
+    height: 400px;
+    margin-left: 30px;
+   }
+.plants
+h4{
+margin-left: 34px;
+font-size: 18px;
+margin-top: 9px;
+   
+   }
+.plants
+ p{
+margin-left: 34px;
+color: rgb(104, 104, 104);
+margin-top: -20px;
+}
+.plants
+h6{
+    margin-left: 34px;
+    margin-top: -10px;
+    font-size: 15px;
+}
+.plant{
+    background-image: url(https://websitedemos.net/generic-ecommerce-02/wp-content/uploads/sites/1526/2025/03/middle-cta.jpg);
+    height: 430px;
+   background-repeat: no-repeat;
+    background-size: cover;
+}
+.plant
+h2{
+    font-size: 50px;
+    padding-top: 90px;
+    text-align: center;
+    color: aliceblue;
+}
+.plant
+p{
+    font-size: 20px;
+    text-align: center;
+    margin-top: -15px;
+    color: aliceblue;
+}
+.plant
+button{
+  font-size: 20px;
+   margin-left: 550px;
+   background-color: transparent;
+   color: aliceblue;
+   margin-top: 10px;
+   height: 50px;
+   width: 130px;
+   border: 1px solid aliceblue;
+   border-radius: 50px;
+}
+.plant
+button:hover{
+    background-color: aliceblue;
+    border: aliceblue;
+    color: black;
+}
+.headings
+h2{
+    font-size: 45px;
+    text-align: center;
+    padding-top: 10px;
+}
+.pots{
+    display: flex;
+}
+.pots
+img{
+    width: 270px;
+    height: 340px;
+    margin-left: 30px;
+  
+   }
+.pots
+h2{
+margin-left: 99px;
+font-size: 22px;
+margin-top: 9px;
+   
+}
+.middle{
+    background-color: #ecf4d3;
+    padding: 50px;
+  display: flex;
+}
+.image
+img{
+    width: 470px;
+        height: 500px;
+    margin-left: 20px;
+    padding-top: 10px;
+
+}
+.middle
+h2{
+    margin-left: 100px;
+    padding-top: 50px;
+    font-size: 45px;
+}
+.middle
+p{
+    margin-left: 100px;
+  color: rgb(98, 97, 97);
+  
+}
+
+.upper
+h6{
+    padding-left: 120px;
+    font-size: 35px;
+    margin-top: 20px;
+}
+.upper{
+    display: flex;
+}
+.upper
+p{
+    color: rgb(80, 72, 72);
+    padding-left: 20px;
+    margin-top: -70px;
+}
+
+.products{
+    display: flex;
+}
+.products
+img{
+    width: 370px;
+    height: 400px;
+    margin-left: 30px;
+   }
+.products
+h4{
+margin-left: 34px;
+font-size: 18px;
+margin-top: 9px;
+   
+   }
+.products
+ p{
+margin-left: 34px;
+color: rgb(104, 104, 104);
+margin-top: -20px;
+}
+.products
+h6{
+    margin-left: 34px;
+    margin-top: -10px;
+    font-size: 15px;
+}
+.paral{
+      background-color: #ecf4d3;
+    padding: 50px;
+  display: flex;
+}
+.box1{
+    border: 1px solid aliceblue;
+    background-color: white;
+    padding: 14px;
+    width: 440px;
+    height: 250px;
+    border-radius: 15px;
+}
+.box1
+img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-left: 30px;
+}
+.box1
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+}
+.city
+p{
+    font-size: 15px;
+}
+.parral{
+    background-image: url(https://websitedemos.net/generic-ecommerce-02/wp-content/uploads/sites/1526/2025/03/footer-bg.jpg);
+    height: 390px;
+  
+}
+.parral
+h2{
+    text-align: center;
+    
+    font-size: 45px;
+    padding-top: 50px;
+}
+.parral
+p{
+    text-align: center;
+    font-size: 25px;
+  
+}
+.parral
+button{
+  font-size: 20px;
+   margin-left: 540px;
+   background-color:#89b75e;
+   color: aliceblue;
+   height: 50px;
+   width: 130px;
+   border: 1px solid #89b75e;
+   border-radius: 50px;
+}
+.parral
+button:hover{
+    background-color: #6ca03b;
+    border: #6ca03b;
+}
+.flex
+img{
+    width: 200px;
+    height: 50px;
+   margin-top: -24px;
+   margin-left: 30px;
+   color: black;
+
+}
+.main{
+     border: 1px solid #ecf4d3;
+    background-color: #ecf4d3;
+    margin-top: 70PX;
+   
+}
+.B{
+    display: flex;
+}
+ 
+.C{
+    border: 1px solid white;
+    background-color: white;
+   border-radius: 20PX;
+    padding: 25px;
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+.C img{
+    border: 1px solid white;
+    border-radius: 300px;
+}
+
+.D{
+    border: 1px solid white;
+    background-color: white;
+   border-radius: 20PX;
+    padding: 20px;
+    height: 300px;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+.D img{
+    border: 1px solid white;
+    border-radius: 300px;
+   
+}
+.E{
+    border: 1px solid white;
+    background-color: white;
+   border-radius: 20PX;
+    padding: 20px;
+    width: 350px;
+    height: 300px;
+    margin-left: 770px;
+    margin-top: -80px;
+    margin-bottom: 20px;
+}
+
+.E img{
+    border: 1px solid white;
+    border-radius: 300px;
+}
+.chinnu h2{
+     margin-top: 50px;
+     font-family: 'Times New Roman', Times, serif;
+     font-size: 35px;
+}
+.chinnu{
+    margin-left: 100px;
+}
+ 
+.footer{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+}
+ .seventh
+a{
+    text-decoration: none;
+     font-size: 25px;
+     color: black;
+     text-align: right;
+     padding: 10px;
+    
+   
+}
+.seventh{
+    padding-left: 200px;
+    margin-top: -13px;
+}
+
+.nineth{
+    margin-left: 230px;
+      margin-top: -8px;
+}
+.para
+p{
+    text-align: center;
+}
+.city{
+    background-color: #ecf4d3;
+    padding:7px;
+  
+}

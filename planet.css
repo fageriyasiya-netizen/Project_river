@@ -1,0 +1,143 @@
+.container{
+    background-image: url(https://websitedemos.net/earth-02/wp-content/uploads/sites/1125/2022/10/Banner.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    overflow: hidden;
+}
+.content
+h1{
+    font-size: 50px;
+    padding-top: 100px;
+    text-align: center;
+  
+}
+.content
+p{
+    font-size: 40px;
+    text-align: center;
+    margin-top: -20px;
+  
+} 
+.flex
+img{
+    width: 150px;
+    height: 20px;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+ .flex
+a{
+    text-decoration: none;
+     margin-left: 85px;
+     color: black;
+} 
+
+
+.name{
+    display: flex;
+    gap: 70px;
+    margin-left: 90px;
+}
+
+.name
+img{
+width: 300px;
+height: 400px;
+border-radius: 15px;
+ }
+ .name
+ h2{
+    font-size: 25px;
+ }
+ .name
+ p{
+    font-size: 20px;
+ }
+.paral
+{
+    display: flex;
+   }
+.paral
+img{
+    width: 530px;
+height: 400px;
+margin-left: 80px;
+border-radius: 10px;
+padding-top: 75px;
+}
+.paral
+h2{
+    margin-left: 60px;
+    padding-top: 150px;
+    font-size: 30px;
+}
+.paral
+p{
+    margin-left: 60px;
+    font-size: 20px;
+font-family: Arial, Helvetica, sans-serif;
+}
+.city
+{
+            background-image: url(https://websitedemos.net/earth-02/wp-content/uploads/sites/1125/2022/10/Call-to-action.jpg);
+    background-position:  center center;
+    background-size: cover;
+    height: 600px;
+}
+.city
+h2{
+    font-size: 45px;
+    color: green;
+    word-spacing: 10px;
+ text-align: center;
+ padding-top: 180px;
+}
+.city
+p{
+    font-size: 20px;
+    color: rgb(62, 60, 60);
+    text-align: center;
+    padding-top: -1px;
+}
+.city
+button{
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    color: aliceblue;
+    border: 1px solid rgb(72, 224, 72);
+    background-color: rgb(36, 161, 36);
+    margin-left: 500px;
+}
+.city
+button:hover{
+    background-color: rgb(18, 109, 18);
+    border: 1px solid rgb(17, 107, 17);
+}
+.footer
+{
+    display: flex;
+}
+.footer
+h3{
+    word-spacing: 15px;
+ margin-left: 50px;
+ margin-top: -2px;
+
+}
+.footer
+img{
+   margin-left: 250px;
+   width: 110px;
+   height: 20px;
+}
+.footer
+p{
+    margin-left: 320px;
+     margin-top: -2px;
+}

@@ -1,0 +1,112 @@
+.container{
+        background-image: url(https://websitedemos.net/earth-02/wp-content/uploads/sites/1125/2022/10/About-banner.jpg);
+    background-position: bottom center;
+    background-size: cover;
+    height: 570px;
+}
+.content
+h1{
+    font-size: 55px;
+    padding-top: 150px;
+    text-align: center;
+    color: green;
+}
+
+.flex
+img{
+    width: 150px;
+    height: 20px;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+ .flex
+a{
+    text-decoration: none;
+     margin-left: 85px;
+     color: black;
+} 
+.paral{
+    display: flex;
+}
+.paral
+img{
+    width: 500px;
+    height: 450px;
+    margin-left: 90px;
+    padding-top: 50px;
+}
+.paral
+h2{
+    font-size: 35px;
+    padding-top: 90px;
+    margin-left: 100px;
+}
+.paral
+p{
+      font-size: 20px;
+    margin-left: 100px;
+    color: rgb(108, 107, 107);
+}
+.city
+{
+       background-image: url(https://websitedemos.net/earth-02/wp-content/uploads/sites/1125/2022/10/Talk-to-us.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.city
+h2{
+    font-size: 45px;
+    color: green;
+    word-spacing: 10px;
+ text-align: center;
+ padding-top: 150px;
+}
+.city
+p{
+    font-size: 20px;
+    color: rgb(62, 60, 60);
+    text-align: center;
+    padding-top: 1px;
+}
+.city
+button{
+    width: 200px;
+    height: 50px;
+    font-size: 20px;
+    color: aliceblue;
+    border: 1px solid rgb(72, 224, 72);
+    background-color: rgb(36, 161, 36);
+    margin-left: 500px;
+}
+.city
+button:hover{
+    background-color: rgb(18, 109, 18);
+    border: 1px solid rgb(17, 107, 17);
+}
+.footer
+{
+    display: flex;
+}
+.footer
+h3{
+    word-spacing: 15px;
+ margin-left: 50px;
+ margin-top: -2px;
+
+}
+.footer
+img{
+   margin-left: 250px;
+   width: 110px;
+   height: 20px;
+}
+.footer
+p{
+    margin-left: 320px;
+     margin-top: -2px;
+}

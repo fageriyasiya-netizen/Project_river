@@ -1,0 +1,103 @@
+ .container{
+   background-image: url(https://websitedemos.net/earth-02/wp-content/uploads/sites/1125/2022/10/Contact-Banner.jpg);
+    background-position: bottom center;
+    background-size: cover;
+    height: 570px;
+ }
+ .content
+h1{
+    font-size: 55px;
+    padding-top: 150px;
+    text-align: center;
+    color: green;
+}
+
+.flex
+img{
+    width: 150px;
+    height: 20px;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+ .flex
+a{
+    text-decoration: none;
+     margin-left: 70px;
+     color: black;
+}
+h2{
+    margin-left: 70px;
+    font-size: 30px;
+    padding-top: 40px;
+}
+.id{
+    padding-top: 30px;
+}
+.id
+button{
+  font-size: 20px;
+   margin-left: 70px;
+   background-color:#89b75e;
+   color: aliceblue;
+   height: 50px;
+   width: 130px;
+   border: 1px solid white;
+   border-radius: 10px;
+}
+.id 
+button:hover{
+    background-color: #6ca03b;
+}
+.header{
+    display: flex;
+}
+.first
+p{
+    margin-left: 160px;
+    margin-top: -10px;
+}
+.first
+h4{
+   margin-left: 160px;
+   margin-top: -43px;
+}
+.second
+h2{
+    padding-top: 70px;
+    margin-left: 200px;
+}
+.first{
+    padding-top: 10px;
+    margin-left: 140px;
+}
+.third
+h2{
+    padding-top: 20px;
+    margin-left: 290px;
+}
+.footer
+{
+    display: flex;
+    padding-top: 50px;
+}
+.footer
+h3{
+    word-spacing: 15px;
+ margin-left: 50px;
+ margin-top: -2px;
+
+}
+.footer
+img{
+   margin-left: 250px;
+   width: 110px;
+   height: 20px;
+}
+.footer
+p{
+    margin-left: 320px;
+     margin-top: -2px;
+}

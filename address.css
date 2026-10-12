@@ -1,0 +1,292 @@
+.main{
+ padding: 60px;
+    background-color: rgb(245, 242, 239);
+}
+ .container{
+    display: flex;
+    justify-content: space-between;
+}
+.container
+img{
+    margin-top: -23px;
+
+}
+a{
+    text-decoration: none;
+ margin:20px; 
+  margin-bottom: 60;
+    color: black;
+}
+.third{
+    color: green;
+    margin-top: -10px;
+     margin-left:150px;
+  }
+.fourth{
+    padding-top: 14px;
+}
+ .hope{
+    text-decoration: none;
+  margin-top: 10px;
+    color: black;
+}
+.image
+img{
+margin-left: 540px;
+margin-top: -40px;
+}
+.middle{
+    display: flex;
+  gap: 200px;
+}
+.middle
+p{
+    margin-left: 160px;
+    font-size: 20px;
+    padding-bottom: 10px;
+    color: rgb(94, 93, 93);
+}
+.input-row
+button{
+  font-size: 17px;
+   margin-left: 5px;
+   background-color:#89b75e;
+   color: aliceblue;
+   height: 40px;
+   width: 160px;
+   border: 1px solid #89b75e;
+   border-radius: 10px;
+}
+.input-row
+button:hover{
+    background-color: #6ca03b;
+    border: #6ca03b;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+.footer-container {
+    width: 60%;
+    margin: auto;
+    border: 1px solid black;
+    background-color: black;
+    width: 98%;
+    height: 300px;
+    color: white;
+ 
+    display: flex;
+ gap: 10px;
+  margin: 30px;
+}
+ 
+ 
+/* Footer Boxes */
+ 
+.footer-box {
+    width: 22%;
+}
+ 
+.logo-box {
+    width: 25%;
+    margin: 30px;
+}
+ 
+ 
+.logo img{
+  color: white;  
+  margin-top: -20px;
+ 
+}
+ 
+ 
+.logo h1 {
+    font-family: Georgia, serif;
+    font-size: 30px;
+    letter-spacing: 1px;
+    line-height: 25px;
+}
+ 
+.logo h3 {
+    font-size: 14px;
+    letter-spacing: 3px;
+    margin-top: 5px;
+}
+ 
+ 
+/* Logo underline */
+ 
+.logo::after {
+    content: "";
+    display: block;
+ 
+    width: 165px;
+    height: 3px;
+ 
+    background: #72c943;
+ 
+    margin-top: 8px;
+}
+ 
+ 
+/* Description */
+ 
+.logo-box p {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-weight: bold;
+ 
+    font-size: 15px;
+    line-height: 23px;
+ 
+    color: #eeeeee;
+}
+ 
+ 
+/* =========================
+   HEADINGS
+========================= */
+ 
+.footer-box h2 {
+    font-family: Georgia, serif;
+ 
+    font-size: 20px;
+ 
+    margin-bottom: 18px;
+ margin-left: 50px;
+    color: white;
+}
+ 
+ 
+/* =========================
+   LINKS
+========================= */
+ 
+.footer-box ul {
+    list-style: none;
+}
+ 
+.footer-box ul li {
+    margin-bottom: 8px;
+}
+ 
+.footer-box ul li a {
+    text-decoration: none;
+ 
+    color: #9b9696;
+ 
+    font-size: 16px;
+ 
+}
+ 
+.footer-box ul li a:hover {
+    color: #e9ece7;
+    padding-left: 5px;
+}
+ 
+ 
+/* =========================
+   BOTTOM FOOTER
+========================= */
+ 
+.footer-bottom {
+    border-top: 1px solid #39404d;
+ background-color: black;
+    width: 78%;
+ margin-top: -30px;
+    padding: 25px 10%;
+margin-left: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ 
+ 
+.footer-bottom p {
+    font-size: 14px;
+    color: rgb(238, 233, 233);
+}
+ 
+ 
+/* =========================
+   SOCIAL ICONS
+========================= */
+ 
+.social-icons {
+    display: flex;
+    gap: 1px;
+    margin-left: 490px;
+}
+ 
+.social-icons a {
+    color: rgb(209, 207, 207);
+ 
+    font-size: 16px;
+ 
+    text-decoration: none;
+  padding: 6px;
+ 
+    transition: 0.3s;
+}
+.shopping-btn:hover {
+    background-color: #5d9e35;
+}
+.shop-btn {
+    background-color: #72b843;
+    color: white;
+ 
+    border: none;
+    padding: 12px 25px;
+ 
+    font-size: 12px;
+    font-weight: bold;
+ 
+    cursor: pointer;
+}
+ 
+.shop-btn:hover {
+    background-color: #5e9d36;
+}
+ 
+.overflow{
+    overflow: hidden;
+}
+ 

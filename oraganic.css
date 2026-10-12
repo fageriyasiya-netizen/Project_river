@@ -1,0 +1,417 @@
+.main{
+  border: 1px solid antiquewhite;
+    background-color: rgb(245, 242, 239);
+}
+ .container{
+    display: flex;
+    justify-content: space-between;
+ 
+ 
+}
+a{
+    text-decoration: none;
+   
+  margin:20px;
+  margin-bottom: 60;
+    color: black;
+}
+.third{
+    color: green;
+     padding-top: 20px;
+     margin-left:150px;
+  }
+.fourth{
+    padding-top: 40px;
+}
+ .hope{
+    text-decoration: none;
+  margin-top: 30px;
+    color: black;
+ }
+ p{
+    color: green;
+ }
+.icon{
+    display: flex;
+    align-items: center;
+    margin-right: 50px;
+}
+.store-section {
+    width: 90%;
+    margin: 70px auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 70px;
+}
+ 
+
+.content {
+    width: 50%;
+}
+ 
+.content h1 {
+    font-family: Georgia, serif;
+    font-size: 35px;
+   
+    margin-bottom: 20px;
+}
+ 
+.content p {
+    color: #777;
+    font-size: 17px;
+    line-height: 1.7;
+    margin-bottom: 25px;
+}
+ 
+/* Right Image */
+.image-box {
+    width: 52%;
+}
+ 
+.image-box img {
+    width: 100%;
+    height: 430px;
+    object-fit: cover;
+    display: block;
+}
+ 
+.stats {
+    background-color: #111820;
+    padding: 28px 0;
+}
+ 
+.stats-container {
+    width: 70%;
+    margin: auto;
+ margin-left: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+ 
+.stat-title h3 {
+    color: white;
+    font-family: Georgia, serif;
+    font-size: 30px;
+}
+ 
+.stat {
+    text-align: center;
+ }
+ 
+.stat h2 {
+    color: white;
+    font-size: 65px;
+    margin-bottom: 5px;
+    margin-left: 150px;
+    margin-top: -5px;
+}
+ 
+.stat p {
+    color: #ddd;
+    font-size: 16px;
+    margin-left: 120px;
+} 
+ .plants{
+    padding-top: 50px;
+    display: flex;
+ }
+.id{
+    background-color:#f8f6f3;
+    padding: 40px;
+    width: 440px;
+    margin-left: 40px;
+    border-radius: 15px;
+}
+.id
+img{
+    margin-top: -70px;
+    border-radius: 30px;
+}
+.id 
+h4{
+margin-left: 150px;
+color: rgb(146, 144, 144);
+padding-top: 10px;
+}
+.id 
+p{
+margin-left: 5px;
+color: black;
+font-size: 18px;
+}
+.small
+img{
+    width: 50px;
+    height: 50px;
+    margin-left: 130px;
+    margin-top: 20px;
+}
+.small
+p{
+    margin-left: 190px;
+    margin-top: -35px;
+    color: rgb(117, 116, 116);
+}
+.headings{
+    padding-top: 80px;
+}
+.headings
+img{
+    margin-left: 100px;
+    width: 100px;
+}
+.headings
+h2{
+     margin-left: 210px;
+     margin-top: -80px;
+     font-size: 30px;
+}
+.headings
+h1{
+     margin-left: 105px;
+    padding-top: 15px;
+     font-size: 40px;
+}
+.headings
+p{
+     margin-left: 200px;
+    margin-top: -20px;
+     font-size: 16px;
+     color: #777;
+}
+.first
+p{
+    padding-top: 30px;
+    margin-left: 110px;
+    color: #111820;
+ }
+.first{
+    padding-top: 30px;
+   }
+.second
+p{
+  padding-top: 30px;
+    margin-left: 400px;
+    color: #111820;
+}
+.second{
+    margin-top: -157px;
+}
+
+
+.headings
+button{
+  font-size: 20px;
+   margin-left: 130px;
+   margin-top: 20px;
+   background-color:#61992c;
+   color: aliceblue;
+   height: 50px;
+   width: 200px;
+   border: 1px solid #61992c;
+   border-radius: 10px;
+}
+.headings
+button:hover{
+    background-color: #71aa3d;
+    border: #71aa3d;
+}
+/* Button */
+ 
+.footer {
+    background: #111827;
+    color: white;
+    padding-top: 55px;
+}
+ 
+ 
+/* Main Footer Container */
+ 
+.footer-container {
+    width: 80%;
+    margin: auto;
+    border: 1px solid black;
+    background-color: black;
+    width: 100%;
+    height: 300px;
+    color: white;
+ 
+    display: flex;
+ gap: 10px;
+  margin: 30px;
+}
+ 
+ 
+/* Footer Boxes */
+ 
+.footer-box {
+    width: 22%;
+}
+ 
+.logo-box {
+    width: 25%;
+    margin: 30px;
+}
+ 
+ 
+.logo img{
+  color: white;  
+  margin-top: -20px;
+ 
+}
+ 
+ 
+.logo h1 {
+    font-family: Georgia, serif;
+    font-size: 30px;
+    letter-spacing: 1px;
+    line-height: 25px;
+}
+ 
+.logo h3 {
+    font-size: 14px;
+    letter-spacing: 3px;
+    margin-top: 5px;
+}
+ 
+ 
+/* Logo underline */
+ 
+.logo::after {
+    content: "";
+    display: block;
+ 
+    width: 165px;
+    height: 3px;
+ 
+    background: #72c943;
+ 
+    margin-top: 8px;
+}
+ 
+ 
+/* Description */
+ 
+.logo-box p {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-weight: bold;
+ 
+    font-size: 15px;
+    line-height: 23px;
+ 
+    color: #eeeeee;
+}
+ 
+ 
+/* =========================
+   HEADINGS
+========================= */
+ 
+.footer-box h2 {
+    font-family: Georgia, serif;
+ 
+    font-size: 20px;
+ 
+    margin-bottom: 18px;
+ margin-left: 50px;
+    color: white;
+}
+ 
+ 
+/* =========================
+   LINKS
+========================= */
+ 
+.footer-box ul {
+    list-style: none;
+}
+ 
+.footer-box ul li {
+    margin-bottom: 8px;
+}
+ 
+.footer-box ul li a {
+    text-decoration: none;
+ 
+    color: #9b9696;
+ 
+    font-size: 16px;
+ 
+}
+ 
+.footer-box ul li a:hover {
+    color: #e9ece7;
+    padding-left: 5px;
+}
+ 
+ 
+/* =========================
+   BOTTOM FOOTER
+========================= */
+ 
+.footer-bottom {
+    border-top: 1px solid #39404d;
+ background-color: black;
+    width: 90%;
+ margin-top: -30px;
+    padding: 25px 10%;
+ margin-left: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ 
+ 
+.footer-bottom p {
+    font-size: 14px;
+    color: rgb(238, 233, 233);
+}
+ 
+ 
+/* =========================
+   SOCIAL ICONS
+========================= */
+ 
+.social-icons {
+    display: flex;
+    gap: 1px;
+    margin-left: 490px;
+}
+ 
+.social-icons a {
+    color: rgb(209, 207, 207);
+ 
+    font-size: 16px;
+ 
+    text-decoration: none;
+  padding: 6px;
+ 
+    transition: 0.3s;
+}
+.shopping-btn:hover {
+    background-color: #5d9e35;
+}
+.shop-btn {
+    background-color: #72b843;
+    color: white;
+ 
+    border: none;
+    padding: 12px 25px;
+ 
+    font-size: 12px;
+    font-weight: bold;
+ 
+    cursor: pointer;
+}
+ 
+.shop-btn:hover {
+    background-color: #5e9d36;
+}
+ 
+.overflow{
+    overflow: hidden;
+}
+ 
